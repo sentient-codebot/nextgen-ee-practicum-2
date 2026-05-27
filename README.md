@@ -5,9 +5,8 @@ with realistic time series load data.
 
 ## Prerequisites
 
-1. Install Python 3.13 or newer.
-2. Install `uv`: <https://docs.astral.sh/uv/getting-started/installation/>
-3. Open this folder in VS Code, PyCharm, or another editor that can run
+1. Install `uv`: <https://docs.astral.sh/uv/getting-started/installation/>
+2. Open this folder in VS Code, PyCharm, or another editor that can run
    Jupyter notebooks.
 
 ## Setup
